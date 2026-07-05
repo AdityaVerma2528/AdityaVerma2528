@@ -55,8 +55,4 @@ https://github.com/AdityaVerma2528/code-hamster
 
 ## Contact
 
-LinkedIn
-
-Portfolio
-
-Email
+Email: adityaverma2528@outlook.com
