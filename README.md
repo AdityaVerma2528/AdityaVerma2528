@@ -27,7 +27,7 @@ Tech:
 Next.js • Node.js • PostgreSQL • Prisma
 
 🔗 GitHub:
-(link)
+https://github.com/AdityaVerma2528/collaborative-text-editor
 
 ---
 
@@ -39,7 +39,7 @@ Tech:
 Node.js • Kafka • PostgreSQL • Prisma
 
 🔗 GitHub:
-(link)
+https://github.com/AdityaVerma2528/github-automation-tool
 
 ---
 
@@ -51,7 +51,7 @@ Tech:
 Next.js • Express • Prisma
 
 🔗 GitHub:
-(link)
+https://github.com/AdityaVerma2528/code-hamster
 
 ## Contact
 
